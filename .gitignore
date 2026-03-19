@@ -1,0 +1,19 @@
+# 编译输出目录
+OBJ/
+
+# 临时文件
+*.tmp
+*.TMP
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE配置
+.vscode/
+
+# 发码文件
+*.kvdat
+
+# 截图文件
+*.png
